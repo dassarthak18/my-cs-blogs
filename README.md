@@ -1,6 +1,6 @@
 # My CS Blogs
 
-A collection of articles I write on various CS topics
+A collection of articles and blog posts I write on various CS topics.
 
 ## Cyber-Physical Systems (OpenGenus)
 
