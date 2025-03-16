@@ -10,3 +10,7 @@ A collection of articles and blog posts I write on various CS topics.
 
 1. [An Introduction to Cyber-Physical Systems](https://iq.opengenus.org/introduction-to-cyber-physical-systems/)
 2. [Multi-Agent Cyber-Physical Systems](https://iq.opengenus.org/multi-agent-cps/)
+
+## OS Experiments (GitHub)
+
+1. [Artix-OpenRC + Hyprland](https://github.com/dassarthak18/ArtixOpenRC-Hyprland/tree/main)
